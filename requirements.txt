@@ -1,0 +1,9 @@
+xgboost
+streamlit
+pandas
+numpy
+nltk
+joblib
+pytumblr
+scipy
+plotly
