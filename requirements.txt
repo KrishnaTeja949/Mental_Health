@@ -1,4 +1,3 @@
-xgboost
 streamlit
 pandas
 numpy
@@ -7,3 +6,5 @@ joblib
 pytumblr
 scipy
 plotly
+scikit-learn
+xgboost
